@@ -23,6 +23,8 @@ you need to initialize it using the  **public key** for a external user and your
 also you can use a string for the **public key** because sometimes could came from server like a string and for that 
 you just need see the commnet above the constructor on [AES](LINK)
 
+See [MainActivity](LINK) to get the complete example of this implementation.
+
 ### Kotlin Multiplatform
 Its independent from platform and you can use for hybrid projects with kotlin multiplatform librearies
 
