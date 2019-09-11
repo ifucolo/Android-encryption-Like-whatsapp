@@ -1,7 +1,9 @@
 # Android Encryption Like Whats App
 This is a project to help Android/Kotlin developers to create safe encryption messages between users:
 
-|Demo| image:: https://img.shields.io/discord/330944238910963714.svg
+Demo: 
+
+![](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/rsz_screenshot_1568237127.png)
 
 
  * DH - [Diffie Helman](https://hackernoon.com/algorithms-explained-diffie-hellman-1034210d5100)
