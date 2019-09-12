@@ -15,11 +15,11 @@ This is a project to help Android/Kotlin developers to create safe encryption me
  
 ## Getting Started
 
-First, you need to add in your project the [GenerateMyKey](link) or copy the methods and the data class Keys to generate the keys from your device because we need a publicKey and a privateKey to make the encryption.
+First, you need to add in your project the [GenerateMyKey](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/app/src/main/java/com/ifucolo/androidencryption/encrypt/GenerateMyKeys.kt) or copy the methods and the data class Keys to generate the keys from your device because we need a publicKey and a privateKey to make the encryption.
 
-Second copy the class [AES](LINK) for your project, and to start to **encrypt** or **decrypt** any message you need to initialize it using the **public key** for an external user and your **private key**, also you can use a string for the **public key** because sometimes could come from server like a string and for that you just need to see the comment above the constructor on [AES](LINK).
+Second copy the class [AES](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/app/src/main/java/com/ifucolo/androidencryption/encrypt/AES.kt) for your project, and to start to **encrypt** or **decrypt** any message you need to initialize it using the **public key** for an external user and your **private key**, also you can use a string for the **public key** because sometimes could come from server like a string and for that you just need to see the comment above the constructor on [AES](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/app/src/main/java/com/ifucolo/androidencryption/encrypt/AES.kt).
 
-See [MainActivity](LINK) get the complete example of this implementation.
+See [MainActivity](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/app/src/main/java/com/ifucolo/androidencryption/MainActivity.kt) get the complete example of this implementation.
 
 
 ### Kotlin Multiplatform
