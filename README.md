@@ -1,17 +1,17 @@
 # Android Encryption Like Whats App
 This is a project to help Android/Kotlin developers to create safe encryption messages between users:
 
-Demo: 
-
-![](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/rsz_screenshot_1568237127.png)
-
-
  * [DH - Diffie Helman](https://hackernoon.com/algorithms-explained-diffie-hellman-1034210d5100)
  * [AES 256](https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard)
  * [CBC](https://searchsecurity.techtarget.com/definition/cipher-block-chaining)
  * [PKCS7Padding](https://en.wikipedia.org/wiki/Padding_(cryptography))
  * [SHA-1](https://en.wikipedia.org/wiki/SHA-1)
  * [MD5](https://searchsecurity.techtarget.com/definition/MD5)
+ 
+ Demo: 
+
+ ![](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/rsz_screenshot_1568237127.png)
+
  
 ## Getting Started
 
