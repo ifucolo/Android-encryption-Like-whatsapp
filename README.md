@@ -6,30 +6,28 @@ Demo:
 ![](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/rsz_screenshot_1568237127.png)
 
 
- * DH - [Diffie Helman](https://hackernoon.com/algorithms-explained-diffie-hellman-1034210d5100)
- * AES 256 
- * CBC
- * PKCS7Padding
- * SHA-1
- * MD5
+ * [DH - Diffie Helman](https://hackernoon.com/algorithms-explained-diffie-hellman-1034210d5100)
+ * [AES 256](https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard)
+ * [CBC](https://searchsecurity.techtarget.com/definition/cipher-block-chaining)
+ * [PKCS7Padding](https://en.wikipedia.org/wiki/Padding_(cryptography))
+ * [SHA-1](https://en.wikipedia.org/wiki/SHA-1)
+ * [MD5](https://searchsecurity.techtarget.com/definition/MD5)
  
 ## Getting Started
 
-First you need to add in your project the [GenerateMyKey](link) or copy the methods and the data class [Keys](LINK)
-to generate the keys from your device, because we need a publicKey and a privateKey to make the encryption.
+First, you need to add in your project the [GenerateMyKey](link) or copy the methods and the data class Keys to generate the keys from your device because we need a publicKey and a privateKey to make the encryption.
 
-Second copy the class [AES](LINK) for your project, and to start **encrypt** or **decrypt** any message
-you need to initialize it using the  **public key** for a external user and your **private key**,
-also you can use a string for the **public key** because sometimes could came from server like a string and for that 
-you just need see the commnet above the constructor on [AES](LINK)
+Second copy the class [AES](LINK) for your project, and to start to **encrypt** or **decrypt** any message you need to initialize it using the **public key** for an external user and your **private key**, also you can use a string for the **public key** because sometimes could come from server like a string and for that you just need to see the comment above the constructor on [AES](LINK).
 
-See [MainActivity](LINK) to get the complete example of this implementation.
+See [MainActivity](LINK) get the complete example of this implementation.
+
 
 ### Kotlin Multiplatform
-Its independent from platform and you can use for hybrid projects with kotlin multiplatform librearies
+It's independent of platform and you can use for hybrid projects with kotlin multiplatform libraries.
+
 
 ### Why it is not a Library?
-Because the idea is not limit you with changes because you also can change algorithms or other things to fit with your project.
+Because the idea is not limited to you with changes because you also can change algorithms or other things to fit with your project.
 
 
 
