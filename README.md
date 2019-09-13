@@ -8,9 +8,12 @@ This is a project to help Android/Kotlin developers to create safe encryption me
  * [SHA-1](https://en.wikipedia.org/wiki/SHA-1)
  * [MD5](https://searchsecurity.techtarget.com/definition/MD5)
  
- Demo: 
+ #### Demo: 
 
  ![](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/rsz_screenshot_1568237127.png)
+ 
+ #### How it works:
+ ![] (https://github.com/ifucolo/Android-encryption-Like-whatsapp/blob/master/Untitled%20Diagram%20(1).png)
 
  
 ## Getting Started
