@@ -13,7 +13,7 @@ This is a project to help Android/Kotlin developers to create safe encryption me
  ![](https://github.com/ifucolo/android-encryption-like-whatsapp/blob/master/rsz_screenshot_1568237127.png)
  
  #### How it works:
- ![] (https://github.com/ifucolo/Android-encryption-Like-whatsapp/blob/master/Untitled%20Diagram%20(1).png)
+ ![](https://github.com/ifucolo/Android-encryption-Like-whatsapp/blob/master/Untitled%20Diagram%20(1).png)
 
  
 ## Getting Started
